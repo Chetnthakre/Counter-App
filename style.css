@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+
+.count {
+    font-size: 3rem;
+}
+
+
+button {
+    background-color: yellow;
+    font-size: 30px;
+}
+
+
+h5 {
+    font-size: 50px;
+}
+
+button {
+     margin-top: 10px;
+     size-adjust: 5px;
+}
